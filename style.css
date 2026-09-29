@@ -66,7 +66,10 @@ h2:active{
 }
 
 /*transform muda o tamanho da caixa, e da um efeito de aproximar ou afastar */
-/*transiton serve para criar efeito */
+/*transiton serve para criar efeito 
+scale  tamanho do objeto 
+translatey para se mover a cima oua baixo
+transition é para colocar um efeito de transição de uma coisa para outra(o elemento escolhido */
 .batata:hover{
     font-family: "Bungee Spice", sans-serif;
     font-weight: 400px;
